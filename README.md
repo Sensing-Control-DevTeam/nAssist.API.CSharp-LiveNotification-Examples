@@ -1,1 +1,3 @@
-# nAssist.API.CSharp-LiveNotification-Examples
+# nAssist API: Live Notification Examples
+
+Just clone the repo, import it on Visual Studio and Run!
