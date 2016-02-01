@@ -15,7 +15,7 @@ namespace LiveNotifications
         private const string SENSOR_NEW_VALUE_EVENT = "receiveNewSensorData";
 
         private const string INSTALLATION_ID = "00000000-0000-0000-0000-b827eb9e544b";
-        private const string SENSOR_ID = "2e74636a-3dad-44ad-82a8-c42a2a8eb925";
+        private const string SENSOR_ID = "8a18178c-5b9a-4e1f-9720-b08ab97b1990";
 
         private const string UserName = "demo";
         private const string Password = "demo";
