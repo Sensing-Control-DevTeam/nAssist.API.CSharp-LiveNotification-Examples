@@ -81,12 +81,12 @@
     <Compile Include="NotificationInterfaces\IEventHub.cs" />
     <Compile Include="NotificationInterfaces\IGatewayHub.cs" />
     <Compile Include="NotificationInterfaces\IInstallationHub.cs" />
-    <Compile Include="NotificationInterfaces\IMonitorHub.cs" />
     <Compile Include="NotificationInterfaces\IRuleHub.cs" />
     <Compile Include="NotificationInterfaces\ISensorHub.cs" />
-    <Compile Include="NotificationInterfaces\IWarningHub.cs" />
     <Compile Include="NotificationModel\DataPoint.cs" />
+    <Compile Include="NotificationModel\EventsCountResponse.cs" />
     <Compile Include="NotificationModel\LiveSensorValuesMapping.cs" />
+    <Compile Include="NotificationModel\ResponseBase.cs" />
     <Compile Include="NotificationModel\SensorDataPoint.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
